@@ -11,7 +11,7 @@ class TestControllerTest {
 
     @Test
     void test() {
-        Assertions.assertThat(2).isEqualTo(2);
+        Assertions.assertThat(3).isEqualTo(3);
     }
 
 }
